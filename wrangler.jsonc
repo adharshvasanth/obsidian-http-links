@@ -14,7 +14,7 @@
 	"routes": [
 		{
 			// If you fork this repository, change this to your own domain.
-			"pattern": "obsidian-links.kennethchristensen.me",
+			"pattern": "obsidian-http-links.adharshvasanth.dev",
 			"custom_domain": true
 		}
 	],
